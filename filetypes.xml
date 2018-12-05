@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep." type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
+      <mapping pattern="BannerComponent" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
