@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="variables" type="Less" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep." type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
