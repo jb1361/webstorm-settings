@@ -6,6 +6,7 @@
       <mapping pattern=".env." type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
       <mapping pattern="BannerComponent" type="TypeScript JSX" />
     </extensionMap>
