@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="variables" type="Less" />
       <mapping pattern=".gitkeep." type="PLAIN_TEXT" />
       <mapping pattern=".env." type="PLAIN_TEXT" />
@@ -8,6 +10,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
+      <mapping pattern="AssetDetailContent" type="TypeScript JSX" />
       <mapping pattern="BannerComponent" type="TypeScript JSX" />
     </extensionMap>
   </component>
