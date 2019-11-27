@@ -10,6 +10,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.sample" type="PLAIN_TEXT" />
       <mapping ext="kt" type="PLAIN_TEXT" />
+      <mapping pattern="companies" type="TypeScript" />
       <mapping pattern="AssetDetailContent" type="TypeScript JSX" />
       <mapping pattern="BannerComponent" type="TypeScript JSX" />
     </extensionMap>
